@@ -15,9 +15,9 @@ int main()
 	// create third char and create two ascii values and 
 	//equal then to char A and B then create third askii and equal it to equation
 	
-	int askii3 = ((ascii1 + ascii2) / 2);
+	int ascii3 = ((ascii1 + ascii2) / 2);
 
-	charC = askii3;
+	charC = ascii3;
 
 	printf("The middle letter is: %c", charC);
 
