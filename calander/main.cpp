@@ -2,7 +2,7 @@
 int main()
 {
 	
-	system("color 2dw");
+	system("color 2");
 	bool scream = true;
 	int varA = 0, varC = 0;
 	printf("Please list the number of the month that \n you wish to learn the amount of days of: ");
@@ -51,7 +51,7 @@ int main()
 	default:
 	{
 		while(scream)
-		{printf("1000101100010010010101"); }
+		{printf("1010010101011100001001010100101010010100101"); }
 		
 	}
 	
