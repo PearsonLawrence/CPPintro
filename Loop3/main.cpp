@@ -2,7 +2,7 @@
 
 int main()
 {
-
+	/*
 	int sum = 0;
 	for (int i = 0; i < 1000; ++i)
 	{
@@ -17,10 +17,25 @@ int main()
 
 		printf("%d", sum);
 
+	*/
+
+	int sum = 0;
+	int i = 0;
+	while (i < 1000)
+	{
+		++i;
+
+
+		if ((i % 3 == 0) || (i % 5 == 0))
+		{
+			sum = sum + i;
+
+
+		}
+	}
+
+	printf("%d", sum);
 	
-
-
-
 
 	getchar();
 
