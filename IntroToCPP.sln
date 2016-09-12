@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "variables", "variables\variables.vcxproj", "{A13D173D-86CA-44F0-AC50-FEE71230CAA5}"
 EndProject
@@ -58,6 +58,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "create a dino", "create a dino\create a dino.vcxproj", "{18466D03-E029-45E1-A771-AA408B4D65EB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "combat exper", "combat exper\combat exper.vcxproj", "{D45D2B5D-1810-4BDE-BC2D-2BF8E062860B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zombiew", "zombiew\zombiew.vcxproj", "{B7919D27-0A83-4D62-AC39-D538A0AB1BC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +293,14 @@ Global
 		{D45D2B5D-1810-4BDE-BC2D-2BF8E062860B}.Release|x64.Build.0 = Release|x64
 		{D45D2B5D-1810-4BDE-BC2D-2BF8E062860B}.Release|x86.ActiveCfg = Release|Win32
 		{D45D2B5D-1810-4BDE-BC2D-2BF8E062860B}.Release|x86.Build.0 = Release|Win32
+		{B7919D27-0A83-4D62-AC39-D538A0AB1BC4}.Debug|x64.ActiveCfg = Debug|x64
+		{B7919D27-0A83-4D62-AC39-D538A0AB1BC4}.Debug|x64.Build.0 = Debug|x64
+		{B7919D27-0A83-4D62-AC39-D538A0AB1BC4}.Debug|x86.ActiveCfg = Debug|Win32
+		{B7919D27-0A83-4D62-AC39-D538A0AB1BC4}.Debug|x86.Build.0 = Debug|Win32
+		{B7919D27-0A83-4D62-AC39-D538A0AB1BC4}.Release|x64.ActiveCfg = Release|x64
+		{B7919D27-0A83-4D62-AC39-D538A0AB1BC4}.Release|x64.Build.0 = Release|x64
+		{B7919D27-0A83-4D62-AC39-D538A0AB1BC4}.Release|x86.ActiveCfg = Release|Win32
+		{B7919D27-0A83-4D62-AC39-D538A0AB1BC4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
